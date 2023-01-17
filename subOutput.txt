@@ -1,0 +1,151 @@
+    0-15 | 16-31 | 31-47 | 48-63 | 64-79 | 80-95 | 96-111|112-127|128-143|144-159|160-175|176-191|192-207|208-223|224-239|240-255
+0    M       M       M       M       M       M       M       M       M       M       M       M       M       M       M       M   
+1    M       M       M       M       M       M       M       M       M       M       M       M       M       M       M       M   
+2    M       M       M       M       M       M       M       M       M       M       M       M       M       M       M       M   
+3    M       M       M       M       M       M       M       M       M       M       M       M       M       M       M       M   
+4    2       2       2       2       2       2       2       2       2       2       2       2       2       2       2       2   
+5    2       2       2       2       2       2       2       2       2       2       2       2       2       2       2       2   
+6    N       N       N       N       N       N       N       N       N       N       N       N       N       N       N       N   
+7    C       C       C       C       C       C       C       C       C       C       C       C       C       C       C       C   
+8    A       A       A       A       A       A       A       A       S       S       S       S       B       B       B       B   
+9    G       G       J       T   
+
+Name: Myspacebook
+Chart Symbol: M
+Rank: 1
+Projected Need: 600
+Actual need: 603
+Binary Mask: 11111111.11111111.11111100.00000000
+Decimal mask: 255.255.252.0
+Network ID: x.x.0.0
+Gateway address: x.x.0.1
+Broadcast address: x.x.3.255
+Useful range x.x.0.2 to x.x.3.254
+Waste: 421
+Cells assigned: 64
+
+Name: 2 to the 8th
+Chart Symbol: 2
+Rank: 2
+Projected Need: 320
+Actual need: 323
+Binary Mask: 11111111.11111111.11111110.00000000
+Decimal mask: 255.255.254.0
+Network ID: x.x.3.0
+Gateway address: x.x.3.1
+Broadcast address: x.x.5.255
+Useful range x.x.3.2 to x.x.5.254
+Waste: 189
+Cells assigned: 32
+
+Name: Nothin
+Chart Symbol: N
+Rank: 3
+Projected Need: 250
+Actual need: 253
+Binary Mask: 11111111.11111111.11111111.00000000
+Decimal mask: 255.255.255.0
+Network ID: x.x.5.0
+Gateway address: x.x.5.1
+Broadcast address: x.x.6.255
+Useful range x.x.5.2 to x.x.6.254
+Waste: 3
+Cells assigned: 16
+
+Name: Cougar Town
+Chart Symbol: C
+Rank: 4
+Projected Need: 150
+Actual need: 153
+Binary Mask: 11111111.11111111.11111111.00000000
+Decimal mask: 255.255.255.0
+Network ID: x.x.6.0
+Gateway address: x.x.6.1
+Broadcast address: x.x.7.255
+Useful range x.x.6.2 to x.x.7.254
+Waste: 103
+Cells assigned: 16
+
+Name: Adjecta
+Chart Symbol: A
+Rank: 5
+Projected Need: 63
+Actual need: 66
+Binary Mask: 11111111.11111111.11111111.10000000
+Decimal mask: 255.255.255.128
+Network ID: x.x.7.0
+Gateway address: x.x.7.1
+Broadcast address: x.x.8.127
+Useful range x.x.7.2 to x.x.8.126
+Waste: 62
+Cells assigned: 8
+
+Name: Spambot
+Chart Symbol: S
+Rank: 6
+Projected Need: 57
+Actual need: 60
+Binary Mask: 11111111.11111111.11111111.11000000
+Decimal mask: 255.255.255.192
+Network ID: x.x.8.0
+Gateway address: x.x.8.1
+Broadcast address: x.x.8.191
+Useful range x.x.8.2 to x.x.8.190
+Waste: 4
+Cells assigned: 4
+
+Name: AbraCadab
+Chart Symbol: B
+Rank: 7
+Projected Need: 34
+Actual need: 37
+Binary Mask: 11111111.11111111.11111111.11000000
+Decimal mask: 255.255.255.192
+Network ID: x.x.8.0
+Gateway address: x.x.8.1
+Broadcast address: x.x.8.255
+Useful range x.x.8.2 to x.x.8.254
+Waste: 27
+Cells assigned: 4
+
+Name: GoMommy
+Chart Symbol: G
+Rank: 8
+Projected Need: 15
+Actual need: 18
+Binary Mask: 11111111.11111111.11111111.11100000
+Decimal mask: 255.255.255.224
+Network ID: x.x.8.0
+Gateway address: x.x.8.1
+Broadcast address: x.x.9.31
+Useful range x.x.8.2 to x.x.9.30
+Waste: 14
+Cells assigned: 2
+
+Name: Japaneiros
+Chart Symbol: J
+Rank: 9
+Projected Need: 7
+Actual need: 10
+Binary Mask: 11111111.11111111.11111111.11110000
+Decimal mask: 255.255.255.240
+Network ID: x.x.9.0
+Gateway address: x.x.9.1
+Broadcast address: x.x.9.47
+Useful range x.x.9.2 to x.x.9.46
+Waste: 6
+Cells assigned: 1
+
+Name: TinyCo
+Chart Symbol: T
+Rank: 10
+Projected Need: 4
+Actual need: 7
+Binary Mask: 11111111.11111111.11111111.11111000
+Decimal mask: 255.255.255.248
+Network ID: x.x.9.0
+Gateway address: x.x.9.1
+Broadcast address: x.x.9.63
+Useful range x.x.9.2 to x.x.9.62
+Waste: 1
+Cells assigned: 1
